@@ -4,7 +4,7 @@
 }
 body {
     background-color: #000;
-    background: url(https://i.pinimg.com/originals/9c/4d/72/9c4d728e455106a84bb4cfa38e650617.gif) no-repeat center center/cover;
+    background: url(https://i.pinimg.com/originals/54/00/cc/5400cc66de8bee9e2917c71688ece44a.gif) no-repeat center center/cover;
     transition: all .7s ease-in-out;
     -o-transition: all .7s ease-in-out;
     -moz-transition: all .7s ease-in-out;
@@ -13,7 +13,7 @@ body {
 
 }
 .card {
-    background: url("https://i.pinimg.com/originals/38/cf/f6/38cff6125414dabdb904e054faf1f822.gif");
+    background: url("https://i.pinimg.com/originals/46/2d/72/462d72ac37841cac4f434a6ca2336eaf.gif");
     /* background-color: #050505; */
     width: 400px;
     height: 550px;
